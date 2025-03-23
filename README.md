@@ -1,8 +1,6 @@
-**`README.md`**
-
 # CIS Windows Scanner
 
-A Python-based **Security Configuration Assessment (SCA)** tool designed to check Microsoft Windows systems against **CIS Benchmarks**. It parses Wazuh-style `.yml` rule files (with `policy`, `requirements`, and `checks`), executes registry or file-based checks, and generates **detailed** HTML/JSON reports showing pass/fail results and compliance information.
+A Python-based **Security Configuration Assessment (SCA)** tool designed to check Microsoft Windows systems against **CIS Benchmarks**. It parses `.yml` rule files (with `policy`, `requirements`, and `checks`), executes registry or file-based checks, and generates **detailed** HTML/JSON reports showing pass/fail results and compliance information.
 
 ## Key Features
 
